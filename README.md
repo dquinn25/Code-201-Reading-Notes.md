@@ -10,7 +10,7 @@ notes on reading
 - Screen Readers are programs that read out contents of a computer screen user.
 - DNS(domain name)
 # tools to use in html
-- <h1> can be used to make a heading
+- < h1 > can be used to make a heading
 - to make a comment put<!--
 - if you need to summarize a secton together use <div>
 - if you want to *jump* to cetrain parts of the page you need to use the <nav> bar
