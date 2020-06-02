@@ -14,7 +14,7 @@ notes on reading
 - to make a comment put<!--
 - if you need to summarize a secton together use <div>
 - if you want to *jump* to cetrain parts of the page you need to use the <nav> bar
-- **Good Navigation priciples are** concise, selective, Contextm, Interactive, Consisitent
+- **Good Navigation priciples are** concise, selective, Context, Interactive, Consisitent
 - Wire frames are used to give a preveiw of what your web page will look like.
 ## Basic concepts of Java Script
 1. Define the goal
