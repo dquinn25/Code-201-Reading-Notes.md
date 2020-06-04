@@ -1,10 +1,10 @@
 What is a switch statement
-- <ol> makes a ordered list
-- <li> makes a list item
-- <ul> is an unordered list
-- <li> list item
-- <Dl>is definition list
-- <Dt> definition term
+- < ol > makes a ordered list
+- < li > makes a list item
+- < ul > is an unordered list
+- < li > list item
+- < Dl >is definition list
+- < Dt > definition term
 - You can use div to set a section and there for added CSS to it
 - Border width is the property used to control the border
 - Border style is used to set the outline of a border for example dashed.
