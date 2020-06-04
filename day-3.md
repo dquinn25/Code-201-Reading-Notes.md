@@ -1,4 +1,4 @@
-What is a switch statement
+
 - < ol > makes a ordered list
 - < li > makes a list item
 - < ul > is an unordered list
