@@ -8,3 +8,4 @@
 - [day-6](day-6.md)
 - [day-7](day-7.md)
 - [day-8](day-8.md)
+- [day-9](day-9.md)
