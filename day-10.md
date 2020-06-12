@@ -1,4 +1,4 @@
-## howt o Deal with Errors
+## how to Deal with Errors
 - There are 2 ways to debug errors
  
 1. debug the script to fix errors
