@@ -4,7 +4,7 @@
 - New classes are created with names such as align - left or align- right to align the images to the left or right of the page
  
  - The background image property allows you to place an image behind any HTML element this could be the entire page or just part of the page.
- ### The short hand background property needs 5 things to be specified
+ - The short hand background property needs 5 things to be specified
 1. background -color
 1. background -image
 1. background -repeat
@@ -20,7 +20,7 @@
 
  
 - Getting other sites to link to you is just as important as on page techniques. Search engines help determine how to rank your site by looking at the number of other Sites that link to yours
-## Key places fo search engine optimization
+## Key places for search engine optimization
 1. Page title
 1. url/ web pages
 1. Headings 
