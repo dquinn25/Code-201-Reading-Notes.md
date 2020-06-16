@@ -11,3 +11,4 @@
 - [day-9](day-9.md)
 - [day-10](day-10.md)
 - [day-11](day-11.md)
+- [day-12](day-12.md)
