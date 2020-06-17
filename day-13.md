@@ -1,0 +1,11 @@
+### Cookies
+- Cookies are included with every HTTP request, thereby slowing down your web application by needlessly transmitting the same data over and over
+- Cookies are included with every HTTP request, thereby sending data unencrypted over the internet (unless your entire web application is served over SSL)
+- Cookies are limited to about 4 KB of data — enough to slow down your application (see above), but not enough to be terribly useful
+- In 2002, Adobe introduced a feature in Flash 6 that gained the unfortunate and misleading name of “Flash cookies.”
+- In 2007, Google launched Gears, an open source browser plugin aimed at providing additional capabilities in browsers. 
+- HTML5 Storage is based on named key/value pairs
+- Calling setItem() with a named key that already exists will silently overwrite the previous value. Calling getItem() with a non-existent key will return null rather than throw an exception.
+- Calling removeItem() with a non-existent key will do nothing.
+- If you want to keep track programmatically of when the storage area changes, you can trap the storage event. The storage event is fired on the window object whenever setItem(), removeItem(), or clear()
+- A new API has been standardized and implemented across all major browsers, platforms, and devices
