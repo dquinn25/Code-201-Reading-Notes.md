@@ -1,1 +1,7 @@
 - Study groups have become a rite of passage at M.B.A. programs, a way for students to practice working in teams and a reflection of the increasing demand for employees who can adroitly navigate group dynamics.
+- To prepare students for that complex world, business schools around the country have revised their curriculums to emphasize team-focused learning.
+- the better a team gets along the more effective they will be.
+- the time spent by managers and employees in collaborative activities has ballooned by 50 percent or more
+- Google’s People Operations department has scrutinized everything from how frequently particular people eat together (the most productive employees tend to build larger networks by rotating dining companions)
+- Google’s data indicated that psychological safety, more than anything else, was critical to making a team work.
+-  Over all teams are much better if they like each other They are more thecht of when they spend more time with each other outside of work and talk about on work related things 
